@@ -29,11 +29,11 @@
   * WHEN you register a service worker
   * THEN you should have the static assets pre cached upon loading along with subsequent pages and static assets
 
-  ![ScreenShot](./assets/images/1.png)
+  ![ScreenShot](./Assets/images/1.png)
 
-  ![ScreenShot](./assets/images/2.png)
+  ![ScreenShot](./Assets/images/2.png)
 
-  ![ScreenShot](./assets/images/3.png)
+  ![ScreenShot](./Assets/images/3.png)
   
   ## Technologies
 
